@@ -30,6 +30,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Insomnia-F05032?style=for-the-badge&logo=insomnia&logoColor=white">
   <img src="https://img.shields.io/badge/-GitHub%20Desktop-blueviolet?style=for-the-badge&logo=github&Color=white">
 </div>
 
