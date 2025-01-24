@@ -25,11 +25,13 @@
   <img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express">
   <img src="https://img.shields.io/badge/Laravel-CB3837?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Jquery-2F4538?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
 
 <h3 align="left">⚙ Tools:</h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstutiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Xampp-F05032?style=for-the-badge&logo=xampp&logoColor=white">
   <img src="https://img.shields.io/badge/Insomnia-blueviolet?style=for-the-badge&logo=insomnia&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
