@@ -4,12 +4,12 @@
 <br><br>
 <hr>
 
-<br>
+<!-- <br>
 <div align="center">
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalves07&layout=compact&hide_border=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gabrielalves07&show_icons=true&hide_border=true&theme=tokyonight" />
 <div>
-<br>
+<br> -->
 
 <h3 align="left">🧾 Languages:</h3>
 
