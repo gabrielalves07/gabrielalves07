@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=443199&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=28&center=true&vCenter=true&width=1000&lines=hello!+my+name+is+Gabriel;i'm+21+years+old;I'm+a+brazilian+programmer;welcome+to+my+github!)](https://git.io/typing-svg)
 <br><br>
@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/Xampp-F05032?style=for-the-badge&logo=xampp&logoColor=white">
   <img src="https://img.shields.io/badge/Insomnia-blueviolet?style=for-the-badge&logo=insomnia&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/Docker-0078D4?style=for-the-badge&logo=docker&logoColor=white"> -->
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=443199&height=120&section=footer"/>
